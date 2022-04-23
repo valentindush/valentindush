@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://scontent.fkgl1-1.fna.fbcdn.net/v/t1.6435-9/167995780_469755444222151_5383966210042400716_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KWKqd41dV6MAX-vhEFL&tn=TF4yrAc4UOexakeA&_nc_ht=scontent.fkgl1-1.fna&oh=00_AT_TJVFisQEqGq18oLIRi4ygrSHd8PE5DrM1XKjjjT-m8Q&oe=625AA63D" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://valentindush.000webhostapp.com/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://valentindush.000webhostapp.com/" target="_blank" rel="noreferrer">Dush valentin</a> 👋
 </h3>
 
 <h2 align="center">
