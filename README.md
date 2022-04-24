@@ -68,6 +68,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentindush)](https://github.com/dushvalentin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentindush&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentindush&layout=compact&hide=html)](https://github.com/yushi1007)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://valentindush.000webhostapp.com/)
