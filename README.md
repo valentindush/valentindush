@@ -22,8 +22,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Muzika
-- Chat app in node js
+- Eleeh
+- SALENIX
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
 - My CSS skill
