@@ -34,9 +34,10 @@ I love the entire process of developing creative websites. I love the challenge 
 - Firebase
 - FLUTTER
 - TS
-- PYTHON
-- React Context API
-- Styled Components  
+- PYTHON AI
+- BOOT
+- KOTLIN
+- WEB3 
 
 ## 💼 Technical Skills
 
