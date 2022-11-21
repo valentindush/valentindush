@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"></a>
-</p>
 
-<h3 align="center">
+<h3>
 Hi there, I'm <a href="https://valentindush.000webhostapp.com/" target="_blank" rel="noreferrer">Dush valentin</a> 👋
 </h3>
 
-<h2 align="center">
+<h2>
  I'm a web developer, mobile dev rookie and AI ML rookie in python
 </h2> 
 
