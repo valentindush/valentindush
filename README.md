@@ -1,6 +1,6 @@
 
 <h3>
-Hi there, I'm <a href="https://valentindush.000webhostapp.com/" target="_blank" rel="noreferrer">Dush valentin</a> 👋
+Hi there, I'm <a href="https://dushvalentin.vercel.app/" target="_blank" rel="noreferrer">Dush valentin</a> 👋
 </h3>
 
 <h4>
