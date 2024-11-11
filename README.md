@@ -1,6 +1,6 @@
-# 👋 Hello, World! I'm [Valentin Dush]
+# 👋 Hello, World! I'm Valentin
 
-## 🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🌱 Lifelong Learner
+## 🚀 Full-Stack Developer | 🎨 A/U/I Enthusiast | 🌱 Lifelong Learner
 
 Welcome to my digital playground! I craft elegant solutions to complex problems and turn coffee into code. ☕️💻
 
